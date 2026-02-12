@@ -1,4 +1,4 @@
 Початковий текст -- LINE 1 edited while on master
-Зміна 1
+Зміна 1 --- we edited line 2 while on 'feature'
 Зміна 2
 WE ADDED LINE 4 -- while on branch 'feature'
