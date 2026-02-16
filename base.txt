@@ -1,5 +1,8 @@
 Початковий текст -- LINE 1 edited while on master
 Зміна 1 -- edited line 2 while on 'master' and we edited line 2 while on 'feature'
+<<<<<< mastersss
+Зміна 2sssssssXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsssssssssssss
+=======
 Зміна 2sVVVVVVVVVVVVVVVVVVVVVVVsssssssssssssssssss
 WE ADDED LINE 4 -- while on branch 'feature'
 oiblili
