@@ -6,4 +6,4 @@ jjjjПочатковий текст -- LINE 1 edited while on master
 Зміна 2sVVVVVVVVVVVVVVVVVVVVVVVsssssssssssssssssss
 WE ADDED LINE 4 -- while on branch 'feature'
 oiblili
-AAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAA1
